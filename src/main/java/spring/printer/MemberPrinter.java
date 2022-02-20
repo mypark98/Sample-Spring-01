@@ -1,0 +1,11 @@
+package spring.printer;
+
+import spring.vo.Member;
+
+public class MemberPrinter {
+
+	public void print(Member member) {
+		System.out.printf("회원정보 : 아이디=%d, 이메일=%s, 이름=%s, 가입일=%s \n", 
+				member.getId(), member.getEmail(), member.getName(), member.getRegisterDate());
+	}
+}
