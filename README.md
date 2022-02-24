@@ -7,7 +7,7 @@
 
 <Strong>Xml 파일을 통한 주입</Strong>
 * XML 파일 작성을 통해 의존성을 주입한다.
-* 생성자, Setter 메소드를 통한 명시적 주입
+* 생성자, Setter 메소드를 통한 명시적 주입이 있다.
 * @Autowired, @Resource Annotation을 이용한 자동 주입
 * GenericXmlApplicationContext 통해 컨테이너를 생성한다.
 
