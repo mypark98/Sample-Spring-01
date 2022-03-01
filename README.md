@@ -1,6 +1,6 @@
 ### Sample-Spring-01 🌿
 <Strong>Code for Spring framework study.</Strong>
-<Strong>Spring 기초</Strong>
+<Strong>Spring 입문</Strong>
 * XML 파일을 통한 주입과 Java Config file을 통한 주입
 
 
